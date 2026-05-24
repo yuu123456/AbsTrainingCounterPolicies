@@ -1,0 +1,12 @@
+<nav class="lang-switcher" aria-label="言語切替 / Language">
+  {% for lang in site.languages %}
+    {% if lang == page.lang %}
+      <span class="lang-current">{{ lang | upcase }}</span>
+    {% elsif page.document_type == 'tokushoho' and lang == 'en' %}
+      <span class="lang-disabled" title="English version not available">EN</span>
+    {% else %}
+      {% assign target_url = '/' | append: page.document_type | append: '/' | append: page.version | append: '/' | append: lang | append: '/' %}
+      <a href="{{ target_url | relative_url }}" class="lang-link">{{ lang | upcase }}</a>
+    {% endif %}
+  {% endfor %}
+</nav>

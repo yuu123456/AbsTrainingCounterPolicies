@@ -1,0 +1,23 @@
+title: 腹筋トレーニングカウンター 法務文書
+description: AbsTrainingCounter の利用規約・プライバシーポリシー・特定商取引法に基づく記載
+url: "https://yuu123456.github.io"
+baseurl: "/AbsTrainingCounterPolicies"
+
+author:
+  name: 腹筋トレーニングカウンター開発者チーム
+  email: support.app.dev.team+abstrainingcounter@gmail.com
+
+languages: [ja, en]
+
+plugins:
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CLAUDE.md
+  - vendor/
+  - .DS_Store

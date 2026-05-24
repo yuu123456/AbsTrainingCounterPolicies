@@ -1,10 +1,14 @@
-# プライバシーポリシー
-
-**腹筋トレーニングカウンター / AbsTrainingCounter**
-
-制定日：2026年5月16日
-
 ---
+layout: legal
+permalink: /privacy/v1/ja/
+lang: ja
+document_type: privacy
+version: v1
+effective_date: "2026-05-16"
+title: プライバシーポリシー
+---
+
+# プライバシーポリシー
 
 ## 1. はじめに
 

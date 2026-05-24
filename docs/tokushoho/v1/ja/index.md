@@ -1,10 +1,14 @@
-# 特定商取引法に基づく記載
-
-**腹筋トレーニングカウンター / AbsTrainingCounter**
-
-制定日：2026年5月16日
-
 ---
+layout: legal
+permalink: /tokushoho/v1/ja/
+lang: ja
+document_type: tokushoho
+version: v1
+effective_date: "2026-05-16"
+title: 特定商取引法に基づく記載
+---
+
+# 特定商取引法に基づく記載
 
 ## 販売業者
 

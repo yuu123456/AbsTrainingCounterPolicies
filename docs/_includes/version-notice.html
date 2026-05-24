@@ -1,0 +1,8 @@
+<div class="version-notice">
+  <span class="version-badge">{{ page.version }}</span>
+  {% if page.lang == 'en' %}
+    Effective date: {{ page.effective_date }}
+  {% else %}
+    制定日: {{ page.effective_date }}
+  {% endif %}
+</div>
