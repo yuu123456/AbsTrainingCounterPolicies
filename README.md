@@ -2,7 +2,7 @@
 
 「腹筋トレーニングカウンター / AbsTrainingCounter」の法務文書を、GitHub Pages（Jekyll）で公開するためのリポジトリです。
 
-公開サイト: https://yuu123456.github.io/AbsTrainingCounterPolicies/
+公開サイト: [https://yuu123456.github.io/AbsTrainingCounterPolicies/](https://yuu123456.github.io/AbsTrainingCounterPolicies/)
 
 ## このリポジトリの役割
 
@@ -51,9 +51,9 @@ bundle exec jekyll serve --source docs --config docs/_config.yml
 
 プレビュー例:
 
-- `http://127.0.0.1:4000/AbsTrainingCounterPolicies/privacy/v1/ja/`
-- `http://127.0.0.1:4000/AbsTrainingCounterPolicies/terms/v1/ja/`
-- `http://127.0.0.1:4000/AbsTrainingCounterPolicies/tokushoho/v1/ja/`
+- [http://127.0.0.1:4000/AbsTrainingCounterPolicies/privacy/v1/ja/](http://127.0.0.1:4000/AbsTrainingCounterPolicies/privacy/v1/ja/)
+- [http://127.0.0.1:4000/AbsTrainingCounterPolicies/terms/v1/ja/](http://127.0.0.1:4000/AbsTrainingCounterPolicies/terms/v1/ja/)
+- [http://127.0.0.1:4000/AbsTrainingCounterPolicies/tokushoho/v1/ja/](http://127.0.0.1:4000/AbsTrainingCounterPolicies/tokushoho/v1/ja/)
 
 ## GitHub Pages で公開する手順
 
@@ -78,9 +78,9 @@ bundle exec jekyll serve --source docs --config docs/_config.yml
 
 ## 主要ページ
 
-- ハブ（ja）: `https://yuu123456.github.io/AbsTrainingCounterPolicies/`
-- 利用規約（v1 ja）: `https://yuu123456.github.io/AbsTrainingCounterPolicies/terms/v1/ja/`
-- 利用規約（v1 en）: `https://yuu123456.github.io/AbsTrainingCounterPolicies/terms/v1/en/`
-- プライバシーポリシー（v1 ja）: `https://yuu123456.github.io/AbsTrainingCounterPolicies/privacy/v1/ja/`
-- プライバシーポリシー（v1 en）: `https://yuu123456.github.io/AbsTrainingCounterPolicies/privacy/v1/en/`
-- 特定商取引法に基づく記載（v1 ja のみ）: `https://yuu123456.github.io/AbsTrainingCounterPolicies/tokushoho/v1/ja/`
+- ハブ（ja）: [https://yuu123456.github.io/AbsTrainingCounterPolicies/](https://yuu123456.github.io/AbsTrainingCounterPolicies/)
+- 利用規約（v1 ja）: [https://yuu123456.github.io/AbsTrainingCounterPolicies/terms/v1/ja/](https://yuu123456.github.io/AbsTrainingCounterPolicies/terms/v1/ja/)
+- 利用規約（v1 en）: [https://yuu123456.github.io/AbsTrainingCounterPolicies/terms/v1/en/](https://yuu123456.github.io/AbsTrainingCounterPolicies/terms/v1/en/)
+- プライバシーポリシー（v1 ja）: [https://yuu123456.github.io/AbsTrainingCounterPolicies/privacy/v1/ja/](https://yuu123456.github.io/AbsTrainingCounterPolicies/privacy/v1/ja/)
+- プライバシーポリシー（v1 en）: [https://yuu123456.github.io/AbsTrainingCounterPolicies/privacy/v1/en/](https://yuu123456.github.io/AbsTrainingCounterPolicies/privacy/v1/en/)
+- 特定商取引法に基づく記載（v1 ja のみ）: [https://yuu123456.github.io/AbsTrainingCounterPolicies/tokushoho/v1/ja/](https://yuu123456.github.io/AbsTrainingCounterPolicies/tokushoho/v1/ja/)
